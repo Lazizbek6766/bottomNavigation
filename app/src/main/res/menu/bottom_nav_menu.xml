@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/miHome"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24" />
+
+    <item android:id="@+id/miSearch"
+        android:title="Search"
+        android:icon="@drawable/baseline_search_24" />
+
+    <item android:id="@+id/placeholder"
+        android:title=""
+        android:enabled="true"/>
+
+    <item android:id="@+id/miFovarite"
+        android:title="Fovarite"
+        android:icon="@drawable/baseline_favorite_border_24" />
+
+    <item android:id="@+id/miProfile"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_outline_24" />
+</menu>
